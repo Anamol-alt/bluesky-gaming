@@ -39,7 +39,7 @@ Dikshant Thapa & 22214022 & 40\% \\
 Ricky Melo & 22090685 & 19\% \\
 \bottomrule
 \end{tabular}\\[0.8em]
-\textbf{GitHub repository:} \url{https://github.com/22090685/COMP3060-SocialWebAnalytics-Group-22}
+\textbf{GitHub repository:} \url{https://github.com/Anamol-alt/bluesky-gaming}
 \end{center}
 
 \newpage
