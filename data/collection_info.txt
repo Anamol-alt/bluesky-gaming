@@ -1,0 +1,7 @@
+collected_at: 2026-10-15 10:46:55 UTC
+window_start: 2026-09-17T00:00:00Z
+window_end: 2026-10-15T00:00:00Z
+queries: gaming, #gaming, videogames, #videogames, "video games", gamer
+unique_posts: 46254
+edges: 16261
+profiles: 27444
