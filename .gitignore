@@ -1,0 +1,9 @@
+# never upload passwords / tokens
+.Renviron
+.Rhistory
+.RData
+.Rproj.user/
+*.log
+report_cache/
+report_files/
+*.tex
